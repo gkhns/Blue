@@ -78,7 +78,7 @@ First, let's background the session by clicking `CTRL+Z`. You can see the active
 
 ![image](https://user-images.githubusercontent.com/99097743/171216893-e2977fe8-1f18-4294-bfca-a7b113bd62a4.png)
 
-Now we need search for `shell_to_meterpreter`
+Now we need search for `shell_to_meterpreter` module
 
 ![image](https://user-images.githubusercontent.com/99097743/171218485-79849cf9-a5c1-42dc-9387-c2c2e0673a92.png)
 
