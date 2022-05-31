@@ -1,4 +1,4 @@
-#Windows #EternalBlue
+#Windows #EternalBlue #MS17-010
 
 **NMAP Scan**
 
@@ -29,7 +29,7 @@ OPEN PORTS
 ![image](https://user-images.githubusercontent.com/99097743/171192028-c0d68993-f0d4-435b-bf66-4ecbf95e6992.png)
 
 
-**MS10-010 KNOWLEDGE BASE**
+**MS17-010 KNOWLEDGE BASE**
 
 Reference: https://www.infosecmatter.com/metasploit-module-library/?mm=exploit/windows/smb/ms17_010_eternalblue
 
