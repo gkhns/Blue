@@ -72,7 +72,7 @@ run
 
 **ESCALATE**
 
-We need to upgrade the shell from the command line to a more functional meterpreter. 
+We need to upgrade the shell from the command line module to a more functional meterpreter. 
 
 First, let's background the session by clicking `CTRL+Z`. You can see the active session with the `sessions` command:
 
