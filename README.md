@@ -51,7 +51,7 @@ This exploit works against a vulnerable SMB service from one of these Windows sy
 * Windows 10 Pro x64 (< Version 1507)
 * Windows 10 Enterprise Evaluation x64 (< Version 1507)
 
-To reliability determine whether the machine is vulnerable, you will have to either examine the system's patch level, or use a vulnerability check.
+To determine whether the machine is vulnerable, you will have to either examine the system's patch level, or use a vulnerability check.
 
 **GAIN FOOTHOLD**
 
@@ -72,7 +72,7 @@ run
 
 **ESCALATE**
 
-We need to upgrade the shell from command line to a more functional meterpreter. 
+We need to upgrade the shell from the command line to a more functional meterpreter. 
 
 First, let's background the session by clicking `CTRL+Z`. You can see the active session with the `sessions` command:
 
@@ -101,4 +101,13 @@ We can crack the password using **John the Ripper**. Please make sure to include
 ![image](https://user-images.githubusercontent.com/99097743/171227324-e3b7b13c-b2d5-49b6-b06e-0c81980c7a51.png)
 
 **FLAGS**
+
+Flag #1
+
+![image](https://user-images.githubusercontent.com/99097743/171230327-a4df5672-e3f5-44f5-967c-46bef0cd094c.png)
+
+Flag #2: Located where passwords are stored within Windows (SAM)
+
+![image](https://user-images.githubusercontent.com/99097743/171230730-18af3044-fd5e-4208-b8bf-d8e83fe77f33.png)
+
 
