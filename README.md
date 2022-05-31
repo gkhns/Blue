@@ -110,4 +110,5 @@ Flag #2: Located where passwords are stored within Windows (SAM)
 
 ![image](https://user-images.githubusercontent.com/99097743/171230730-18af3044-fd5e-4208-b8bf-d8e83fe77f33.png)
 
+Flag #3: try `search -f flag2.txt`
 
